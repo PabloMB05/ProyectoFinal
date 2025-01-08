@@ -16,6 +16,6 @@ public class EnviarCorreos extends javax.swing.JFrame{
     private String content;
     
     public EnviarCorreos(){
-        initComponents();
+//        initComponents();
     }
 }
